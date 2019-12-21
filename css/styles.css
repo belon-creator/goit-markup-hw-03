@@ -1,0 +1,35 @@
+:root {
+  --text-color: #626262;
+  --font: "Playfair Display", serif;
+}
+
+body {
+  color: var(--text-color);
+}
+
+.link,
+.tag {
+  text-transform: uppercase;
+  font-family: var(--font);
+}
+
+.link,
+.text {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.tag {
+  font-size: 14px;
+  color: #b4ad9e;
+  font-family: "Ubuntu";
+}
+
+.article-header {
+  font-size: 30px;
+}
+.button {
+  color: var(--text-color);
+  font-family: var(--font);
+  font-size: 20px;
+}
