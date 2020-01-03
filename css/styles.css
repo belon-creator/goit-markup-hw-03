@@ -42,6 +42,8 @@ body {
 /* header */
 
 .main-header {
+  margin: 0 auto;
+  width: 574px;
   padding-top: 76px;
   margin-bottom: 102px;
 }
